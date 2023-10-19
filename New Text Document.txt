@@ -3,6 +3,3 @@ z
 o
 p
 q
-f
-u
-ll
