@@ -22,4 +22,3 @@ ash
 ani
 om2
 ash2
-ani2
